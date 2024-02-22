@@ -1,0 +1,25 @@
+.big {
+    position: absolute;
+    padding:7px;
+    background-color:yellow;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 8px;
+  }
+
+  .big1 {
+    position: absolute;
+    padding:7px;
+    background-color:yellow;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 8px;
+  }
+
+  .j1{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    margin-left: 33px;
+    margin-top: -10px;
+}
